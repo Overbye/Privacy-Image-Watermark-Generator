@@ -102,14 +102,11 @@
                 }}</n-button>
         </div>
     </n-card>
-    <n-card class="card" :title="contentText.isSafty">
+   <n-card class="card" :title="contentText.isSafty">
         {{ contentText.saftyClaim1 }}<a href="https://github.com/gaowanliang/Privacy-Image-Watermark-Generator"
             target="_blank">GitHub</a>{{ contentText.saftyClaim2 }}
     </n-card>
-    <h5 style="text-align: center">
-        <a href="https://github.com/gaowanliang" target="_blank">Gaowan Liang</a> © 2023 - {{ new Date().getFullYear() }} ,
-        All Rights Reserved
-    </h5>
+
 </template>
 
 <script lang="ts">
