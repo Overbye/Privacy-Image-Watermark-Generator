@@ -4,7 +4,6 @@ Secure your private images with a full page watermark.
 
 Privacy Image Watermark Generator is a web-based tool that allows you to add watermarks to your images without uploading them to any server. You can customize the watermark text, size, color and position, and choose whether to enable gradient color to prevent watermark removal. This tool is especially useful for protecting your privacy information such as passports, driver’s licenses, ID cards, etc. when uploading them online. You can also use this tool offline by closing the network after the web page is loaded. The code is open source and available on GitHub. Try it now and enjoy the convenience and security of Privacy Image Watermark Generator!
 
-https://watermark.gwliang.com/
 
 ## Features
 * Customizable watermarks: You can choose the text, color, size, and position of your watermark, and even apply gradient colors to make it more resistant to removal.
@@ -20,7 +19,7 @@ https://watermark.gwliang.com/
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)。
 
 ## Type Support for `.vue` Imports in TS
 
@@ -35,7 +34,7 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 
 ## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+See [Vite Configuration Reference](https://vitejs.dev/config/)。
 
 ## Project Setup
 
