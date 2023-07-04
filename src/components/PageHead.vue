@@ -22,7 +22,7 @@ export default defineComponent({
   name: 'PageHead',
   props: {
     lang: {
-      type: String as PropType<'en-US' | 'zh-CN'>
+      type: String as PropType<'zh-CN' | 'en-US'>
     },
     langChange: {
       type: Function
