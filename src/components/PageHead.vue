@@ -35,7 +35,7 @@ export default defineComponent({
   },
   setup: (props) => {
     const langs = toRef(props, 'lang')
-    const contentText = computed(() => content[langs.value ?? 'en-US'])
+    const contentText = computed(() => content[langs.value ?? 'zh-CN'])
     return {
       langs,
       contentText,
